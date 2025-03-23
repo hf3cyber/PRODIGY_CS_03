@@ -51,7 +51,7 @@ Password Strength: ########## 100%
 Password Strength: Very Strong
 Great job! Your password is strong!
 ```
-### Example 1:
+### Example 2:
 ```
 Enter a password to assess: password
 Password Strength: ########## 10%
@@ -64,14 +64,13 @@ Feedback:
 - Password should contain at least one special character.
 ```
 
-## 📂 Repository
-
-    GitHub Repository: Password Strength Checker
-
 ## 📧 Contact
 
 For any questions or improvements, feel free to contribute or open an issue on the repository!
 
 ## 📝 License
 
-This project is licensed under the MIT License.
+## 📝 License
+
+This project is licensed under the [MIT License](./LICENSE).
+
